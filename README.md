@@ -46,5 +46,3 @@ THE SOFTWARE.
 Antimony includes code from [kokopelli](https://github.com/mkeeter/kokopelli), which is  
 © 2012-2013 Massachusetts Institute of Technology  
 © 2013 Matthew Keeter
-
-xxx
